@@ -1,2 +1,4 @@
 Reddit account name:     googleitbot
 Reddit account password: googleitbot
+client id:               EeWPOWVvE4TLKA
+secret:                  CTU1zRDpHalLtnv3xDgbGZgSJFo
